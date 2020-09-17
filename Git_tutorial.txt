@@ -1,0 +1,25 @@
+GIT : concept of distributed source code management
+
+Implementations: github , gitlab, bitbucket
+
+Repository: learning_python
+README.md
+
+Callc.py
+
+
+Sending changes from your system to central server:
+  1. make git aware that you have a new file:
+      git add <filename.py>
+
+  2. commit the changes to the local Repository
+      git commit <filename.py>
+
+  3. push the commit to the github server/website
+      git push
+
+Getting the changes someone else does to your system
+  git pull
+Check your repository at any time
+git status
+
