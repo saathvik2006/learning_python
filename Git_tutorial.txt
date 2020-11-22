@@ -10,10 +10,10 @@ Callc.py
 
 Sending changes from your system to central server:
   1. make git aware that you have a new file:
-      git add <filename.py>
+      git add <filename.py or folder name>
 
   2. commit the changes to the local Repository
-      git commit <filename.py>
+      git commit <filename.py> -m <comment within quotes>
 
   3. push the commit to the github server/website
       git push

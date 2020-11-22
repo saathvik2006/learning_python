@@ -1,0 +1,8 @@
+name=input("Your name ")
+number_of_jeans=int(input("How many jeans will you get "))
+price_of_jeans=int(input("How much do your jeans cost "))
+tax_rate=float(input("What is the tax rate on the jeans "))
+jean_with_tax=(price_of_jeans*tax_rate)
+jeanTotalWithTax=(jeanWithTax+priceOfJeans)
+total=(jeanTotalWithTax*numberOfJeans)
+print (name, "will spend",total, "on", numberOfJeans, "pairs of jeans.")

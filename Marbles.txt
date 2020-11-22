@@ -1,0 +1,4 @@
+myMarbles=(17-15+12)
+robertMarbles=(7*3)
+totalMarbles=(myMarbles+robertMarbles)
+print ("We have ",totalMarbles," marbels")
