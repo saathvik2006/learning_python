@@ -23,3 +23,5 @@ Getting the changes someone else does to your system
 Check your repository at any time
 git status
 
+check your changes in your modifier file
+git diff <file name>
